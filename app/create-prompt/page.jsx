@@ -29,6 +29,9 @@ const CreatePrompt = () => {
     }catch(e){
       console.log(e);
     }
+    finally{
+      setSubmitting(false)
+    }
 
   }
   return (
