@@ -10,11 +10,11 @@ const Home = () => {
       </h1>
 
       <p className="desc text-center">
-        Promptpeller.ai, a place to explore, Creative prompts, and so much
-        more, Innovative tools that you'll adore, Share your ideas and let your
+        Promptpeller.ai, a place to explore, Creative prompts, and so much more,
+        Innovative tools that you'll adore, Share your ideas and let your
         creativity soar.
       </p>
-    <Feed/>
+      <Feed />
     </section>
   );
 };
